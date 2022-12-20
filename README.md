@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/thobass/tsbb-sfg-brewery/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thobass/tsbb-sfg-brewery/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/thobass/tsbb-sfg-brewery/tree/Assignment_-_Configure_CircleCI.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thobass/tsbb-sfg-brewery/tree/Assignment_-_Configure_CircleCI)
 
 # Read Me First
 The following was discovered as part of building this project:
